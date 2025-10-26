@@ -7,7 +7,7 @@ import kd.dhyani.project0024.data.remote.WatchModeApi
 
 class WatchModeRepository(private val api: WatchModeApi) {
 
-    private val apiKey = "gi1x1aDgv1KMfamWNNxddiE2RuIGZ95DF86QfAcO"
+    private val apiKey = "YOUR_API_KEY"
 
     fun getMovies(): Single<TitleResponse> =
         api.getMovies(apiKey)
