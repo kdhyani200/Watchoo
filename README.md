@@ -1,4 +1,4 @@
-# 🎬 Project0024 — Movie & TV Show App
+# 🎬 Watchoo — Movie & TV Show App
 
 A modern Android app built with **Jetpack Compose** that lets users explore trending **Movies** and **TV Shows** in one place.  
 It features smooth UI transitions, a splash screen, shimmer loading effects, and error handling with a retry button.  
