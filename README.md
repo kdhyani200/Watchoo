@@ -72,4 +72,4 @@ This app uses **The Movie Database (TMDb)** API to fetch Movies and TV Show data
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Project0024.git
+   git clone https://github.com/kdhyani200/Watchoo.git
